@@ -1,5 +1,7 @@
 # Notes App
 
+Video: https://youtu.be/JWgnrlvGetM
+
 This is a sample application for managing notes. It allows users to create, view, update, and delete notes.
 
 ## Technologies
